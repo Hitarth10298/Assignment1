@@ -1,4 +1,4 @@
-## This is Assignment 1
+## This is practice tutorial for git commands
 
 ## Implementing Ineuron's assignment task 2
 
