@@ -5,3 +5,5 @@
 ## Creating app.py file 
 
 ## Changing the branch
+
+## Branching, Committing, etc
